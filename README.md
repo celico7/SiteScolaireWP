@@ -3,4 +3,4 @@ Site fictif réalisé sur Wordpress pour un projet scolaire. Le site a été fai
 
 <img src="index.png">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7MX7tr-u1q0?si=pCny_b6FJKhVjXln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![mercado latino website](https://img.youtube.com/vi/cGSnHmjdKyw/0.jpg)](https://www.youtube.com/watch?v=cGSnHmjdKyw)
